@@ -23,7 +23,7 @@ I specialize in front-end development and have had the privilege of working on a
 
 Here are some of the projects I've worked on:
 
-- [Furniture Website UI](https://furniturewebsite.onrender.com/): Brief description of project 1.
+- [Furniture Website UI](https://furniturewebsite.onrender.com/): 
 
 Feel free to explore my GitHub repositories for more of my work!
 
