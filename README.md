@@ -30,7 +30,7 @@ Feel free to explore my GitHub repositories for more of my work!
 ## Connect With Me
 
 - 📧 You can reach out to me at [manojk030401@gmail.com](mailto:manojk030401@gmail.com).
-- 💼 Connect with me on [LinkedIn]((https://www.linkedin.com/in/manoj-kumar-t-4a7710235)).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manoj-kumar-t-4a7710235).
 - 🌐 Visit my [portfolio website](https://manoj-portfolio-7dd3.onrender.com/) to see more of my work.
 
 Let's collaborate and build amazing web experiences together! 🚀
