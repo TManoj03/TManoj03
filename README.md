@@ -1,4 +1,4 @@
-# Hi there, I'm Manoj KUmar 👋
+# Hi there, I'm Manoj Kumar 👋
 
 I'm a passionate React.js developer with a focus on crafting web applications and user interfaces that are not only visually appealing but also functional and performant.
 
